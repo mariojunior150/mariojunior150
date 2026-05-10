@@ -1,1 +1,2 @@
 Testando primeiro uso de inclusão do arquivo e construção da nova branch
+Inserindo a segunda linha dentro da criação da branch teste_de_funcao
