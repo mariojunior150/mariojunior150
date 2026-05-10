@@ -1,4 +1,14 @@
-## Hi there 👋
+### Proprietário
+Mario Bastos de Souza Junior
+
+### Cursando
+Inteligência Artificial Preditiva
+Sesi Senai São José Santa Catarina
+
+### Formação
+Graduado em Biblioteconomia
+Mestre em Ciência da Informação
+Ambos pela Universidade Federal de Santa Catarina
 
 <!--
 **mariojunior150/mariojunior150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
