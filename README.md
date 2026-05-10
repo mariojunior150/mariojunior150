@@ -1,14 +1,16 @@
-### Proprietário
-Mario Bastos de Souza Junior
+## **Mario Bastos de Souza Junior**
 
-### Cursando
-Inteligência Artificial Preditiva
-Sesi Senai São José Santa Catarina
+### <ins>Cursando</ins>
+<p>Inteligência Artificial Preditiva</p>
+<p>Sesi Senai São José Santa Catarina</p>
 
-### Formação
-Graduado em Biblioteconomia
-Mestre em Ciência da Informação
-Ambos pela Universidade Federal de Santa Catarina
+### <ins>Formação</ins>
+<p>Mestre em Ciência da Informação</p>
+<p>Graduado em Biblioteconomia</p>
+<p>Ambos pela Universidade Federal de Santa Catarina</p>
+
+### <ins>Objetivo</ins>
+<p>Com início em 04/05/2026 o objetivo é aprofundar os conhecimentos em IA Preditiva e desenvolver projetos colaborativos em Inteligência Artificial.</p>
 
 <!--
 **mariojunior150/mariojunior150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
